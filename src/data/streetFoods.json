@@ -1,0 +1,62 @@
+[
+  {
+    "idMeal": "SF001",
+    "strMeal": "Pani Puri",
+    "strArea": "Indian",
+    "strCategory": "Street Food",
+    "strMealThumb": "streetfoods/panipuri.jpg",
+    "strInstructions": "Make puris, prepare spicy mint water, and fill them with mashed potatoes and chickpeas.",
+    "strYoutube": "https://www.youtube.com/embed/IgAnj6r1O48",
+    "strIngredient1": "Semolina",
+    "strMeasure1": "1 cup",
+    "strIngredient2": "Potato",
+    "strMeasure2": "2 boiled",
+    "strIngredient3": "Tamarind Chutney",
+    "strMeasure3": "2 tbsp"
+  },
+  {
+    "idMeal": "SF002",
+    "strMeal": "Vada Pav",
+    "strArea": "Indian",
+    "strCategory": "Street Food",
+    "strMealThumb": "streetfoods/vadapav.jpg",
+    "strInstructions": "Deep fry the potato mixture and serve inside pav with chutneys.",
+    "strYoutube": "https://www.youtube.com/embed/AEujt7D_mlg",
+    "strIngredient1": "Potatoes",
+    "strMeasure1": "2",
+    "strIngredient2": "Pav buns",
+    "strMeasure2": "4",
+    "strIngredient3": "Chutney",
+    "strMeasure3": "2 tbsp"
+  },
+  {
+    "idMeal": "SF003",
+    "strMeal": "Momos",
+    "strArea": "Indian",
+    "strCategory": "Street Food",
+    "strMealThumb": "streetfoods/momos.jpg",
+    "strInstructions": "Fill dough with vegetables or chicken, steam until soft, and serve with spicy chutney.",
+    "strYoutube": "https://www.youtube.com/embed/R8i9pWvMQU8",
+    "strIngredient1": "Flour",
+    "strMeasure1": "1 cup",
+    "strIngredient2": "Cabbage",
+    "strMeasure2": "1/2 cup",
+    "strIngredient3": "Carrot",
+    "strMeasure3": "1/4 cup"
+  },
+  {
+    "idMeal": "SF004",
+    "strMeal": "Samosa",
+    "strArea": "Indian",
+    "strCategory": "Street Food",
+    "strMealThumb": "streetfoods/samosa.jpg",
+    "strInstructions": "Make potato filling, wrap in dough triangles, and deep fry till golden brown.",
+    "strYoutube": "https://www.youtube.com/embed/vTz4Qtt5O8w",
+    "strIngredient1": "Potatoes",
+    "strMeasure1": "2 boiled",
+    "strIngredient2": "Green peas",
+    "strMeasure2": "1/2 cup",
+    "strIngredient3": "Flour",
+    "strMeasure3": "1 cup"
+  }
+]

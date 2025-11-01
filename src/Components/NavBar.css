@@ -1,0 +1,15 @@
+.MuiChip-root {
+  background: #f8f8f8;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.MuiChip-root.MuiChip-colorPrimary {
+  background: #ff5252 !important;
+  color: #fff !important;
+}
+
+.MuiChip-root:hover {
+  transform: scale(1.05);
+  background: #ffe3e3;
+}
